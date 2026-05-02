@@ -133,6 +133,10 @@ body, button, input {
   /* align-items: center; */
 }
 
+.input-box {
+  margin:auto 40px 6px;
+}
+
 .header {
   margin: 14.45px auto 12px;
 }
@@ -151,9 +155,7 @@ body, button, input {
   -webkit-box-direction: normal;
 }
 
-.input-box {
-  margin:auto 40px 6px;
-}
+
 
 input {
   height: 36px;
@@ -314,7 +316,7 @@ span.language {
   }
 
   .content {
-    max-width: 100%;
+    max-width: 350%;
     margin-top: 0;
     justify-content: space-between;
   }
